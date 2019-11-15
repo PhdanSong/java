@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/denglu/web/LoginServlet.java=UTF-8
+encoding//src/com/upload/DownLoadServlet.java=UTF-8
+encoding//src/com/upload/ListFileServlet.java=UTF-8
+encoding//src/com/upload/UploadHandleServlet.java=UTF-8
+encoding//src/com/upload/UploadHandleketigaiServlet.java=UTF-8
+encoding//src/com/xuanti/web/StudentxuantinewServlet.java=UTF-8
+encoding//src/dao/ketixinxi/KetixinxiDao.java=UTF-8
+encoding//src/dao/lunwenxinxi/LunwenxinxiDao.java=UTF-8
+encoding//src/me/gacl/web/controller/DownLoadlunwenServlet.java=UTF-8
+encoding//src/me/gacl/web/controller/UploadHandlelunwenServlet.java=UTF-8
+encoding//src/me/gacl/web/controller/UploadHandlelunwengaiServlet.java=UTF-8
+encoding//src/services/ketixinxi/KetixinxiServices.java=UTF-8
